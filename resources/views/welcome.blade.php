@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    EU tô aqui meno
+                    hello_friend
                 </div>
 
                 <div class="links">
